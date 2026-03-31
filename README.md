@@ -11,7 +11,7 @@ Methodology:
 2. Calculated conversion rates between each stage of the funnel to identify drop-offs.
 3. Analyzed performance by traffic source to compare conversion efficiency across channels.
 4. Measured time between user actions to understand how quickly users convert.
-5. Built revenue metrics including average order value and revenue per user.
+5. Built revenue metrics, including average order value and revenue per user.
 
 Skills:
 1. SQL: CTEs, joins, CASE statements, aggregate functions, window functions
