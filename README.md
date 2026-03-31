@@ -1,4 +1,4 @@
-# E-Commerce-Funnel-Revenue-Analysis-Using-SQL
+# E-Commerce Funnel Revenue Analysis Using SQL
 
 Summary:
 This project analyzes user behavior across an e-commerce funnel to identify drop-off points, conversion performance, and revenue opportunities. Using SQL, I calculated funnel stages, conversion rates, traffic source performance, and time-to-conversion metrics. The analysis revealed that while the checkout process is highly efficient, significant user drop-off occurs earlier in the funnel, and marketing channels vary greatly in effectiveness. These insights were used to generate actionable recommendations to improve conversions and revenue.
